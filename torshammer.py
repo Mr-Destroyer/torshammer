@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 
 # this assumes you have the socks.py (http://phiral.net/socks.py) 
 # and terminal.py (http://phiral.net/terminal.py) in the
